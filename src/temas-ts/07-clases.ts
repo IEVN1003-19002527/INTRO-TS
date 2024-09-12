@@ -26,6 +26,6 @@ class Dado{
 }
 
 let dado1=new Dado();
-dado1.tirar();
+dado1.tirar(); 
 dado1.imprimir();
 
