@@ -14,7 +14,6 @@ class EcuacionCuadratica {
     }
 }
 
-// Ejemplo de uso
 const ecuacion = new EcuacionCuadratica(1, 2, 1);
 const x = 2;
 const y = ecuacion.calcularY(x);

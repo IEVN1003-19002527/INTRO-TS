@@ -1,11 +1,8 @@
-// Definición de la clase base Figura
 class Figura {
-    // Método para calcular el área (se sobrescribirá en las clases hijas)
     calcularArea(): number {
         return 0;
     }
 
-    // Método para calcular el volumen (se sobrescribirá en las clases hijas)
     calcularVolumen(): number {
         return 0;
     }
